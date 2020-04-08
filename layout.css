@@ -1,0 +1,30 @@
+#one {
+	background-color: skyblue;
+	height: 40px;
+	width: 3000px;
+}
+ #two {
+ 	background-color: skyblue;
+ 	height: 150px;
+ 	width: 3000px;
+ }
+.container {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+}
+
+.container div {
+	background-color: skyblue;
+	height: 200px;
+	width: 300px;
+	margin: 30px;
+}
+#three {
+	background-color: skyblue;
+ 	height: 100px;
+ 	width: 3000px;
+}
+  
+  
